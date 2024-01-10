@@ -1,0 +1,51 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #131213;
+    background-color: rgb(234, 218, 228);
+}
+
+h1, h2, h3 {
+    color: #0c0c0c; /* Pink color for beauty theme */
+}
+
+a {
+    color: #0e0e0e;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #8e44ad; /* Purple color for visited links */
+}
+
+a:active {
+    color: #e74c3c; /* Red color for active links */
+}
+
+img {
+    width: 100px;
+    height: auto;
+}
+
+.date {
+    font-style: italic;
+    color: #555;
+}
+
+blockquote {
+    border-left: 2px solid #ff4081;
+    padding-left: 10px;
+}
+
+footer{
+    background-color: rgb(165, 69, 94);
+    color: aliceblue;
+    font-size: 12px;
+    padding-top: 16px;
+    padding-left: 24px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+ }
